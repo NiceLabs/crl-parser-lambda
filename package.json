@@ -9,7 +9,7 @@
     "@tusbar/cache-control": "^1.0.2",
     "@types/aws-lambda": "^8.10.145",
     "date-fns": "^4.1.0",
-    "esbuild": "^0.24.0"
+    "esbuild": "^0.25.0"
   },
   "devDependencies": {
     "@types/adm-zip": "~0.5.6",
